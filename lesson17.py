@@ -10,13 +10,16 @@ from lesson15 import selectionSort
 import lesson16
 # Вызываем функцию так: lesson16.quickSort(arr)
 
+import math
+
 # Бинарный поиск
 def binary_search(my_list, item):
   step = 0
   low = 0
   high = len(my_list)-1
   while low <= high:
-    mid = (low + high)
+    step+=1
+    mid = math.floor((low + high) / 2)
     quess = my_list[mid]
     if quess == item:
       print("На поиск ушло шагов: {0}".format(step))
@@ -25,7 +28,6 @@ def binary_search(my_list, item):
       high = mid-1
     else:
       low = mid+1
-    step+=1
   return None
 # Массив должен быть отсортирован
 my_list = [2, 4, 1, 3, 7, 8, 6, 5]
