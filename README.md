@@ -97,14 +97,6 @@
 3. <a href="https://dfedorov.spb.ru/python3/book.pdf" target="_blank">Основы программирования на примере языка Python - Д. Ю. Федоров</a>
 4. <a href="http://uchcom7.botik.ru/L/prog/python/python_01.pdf" target="_blank">Изучаем Python - Mark Lutz</a>
 
-### Я, Исмаил Усеинов:
-* __YouTube канал ITDoctor:__ https://www.youtube.com/c/ITDoctor
-* __Телеграм:__ https://t.me/itdoctorstudio
-* __Группа в ВК:__ https://vk.com/itdoctorstudio
-* __Instagram:__ https://instagram.com/ismail_asanovich/
+---
 
-### Донаты ( ₽ ):
-* __СберБанк VISA:__ 4274 3200 3233 1582
-* __YooMoney:__ https://sobe.ru/na/itdoctor 
-* __PayPal__ https://paypal.me/itdoctorstudio
-* __Станьте спонсором Youtube канала:__ https://www.youtube.com/channel/UC2Ev-rDSHBov0ZMChesLfrg/join
+[![GitHub](https://img.shields.io/badge/-Мой_GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/morphIsmail)
